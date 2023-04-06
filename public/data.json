@@ -1,0 +1,20 @@
+ [
+    {
+        "name": "Tetris",
+        "year": 1985,
+        "genre": "Puzzle",
+        "stock": 5
+    },
+    {
+        "name": "Zelda",
+        "year": 1989,
+        "genre": "Aventures",
+        "stock": 0
+    },
+    {
+        "name": "Super Mario Bross",
+        "year": 1990,
+        "genre": "Platform",
+        "stock": 2
+    }
+]
